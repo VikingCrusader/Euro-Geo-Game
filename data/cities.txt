@@ -1,0 +1,246 @@
+Lyon;France;Easy
+Birmingham;United Kingdom;Easy
+Manchester;United Kingdom;Easy
+Marseille;France;Easy
+Hamburg;Germany;Easy
+München;Germany;Easy
+Köln;Germany;Easy
+Frankfurt am Main;Germany;Easy
+Barcelona;Spain;Easy
+Milan;Italy;Easy
+Florence;Italy;Easy
+Krakow;Poland;Easy
+Gothenburg;Sweden;Easy
+Porto;Portugal;Easy
+Ostrava;Czech Republic;Easy
+Graz;Austria;Easy
+The Hague;Netherlands;Easy
+Antwerp;Belgium;Easy
+Aarhus;Denmark;Easy
+
+Bordeaux;France;Medium
+Strasbourg;France;Medium
+Edinburgh;United Kingdom;Medium
+Glasgow;United Kingdom;Medium
+Cambridge;United Kingdom;Medium
+Liverpool;United Kingdom;Medium
+Düsseldorf;Germany;Medium
+Mannheim;Germany;Medium
+Dresden;Germany;Medium
+Bremen;Germany;Medium
+Leipzig;Germany;Medium
+Hannover;Germany;Medium
+Stuttgart;Germany;Medium
+Nürnberg;Germany;Medium
+Valencia;Spain;Medium
+Naples;Italy;Medium
+Gdansk;Poland;Medium
+Malmö;Sweden;Medium
+Porto;Portugal;Medium
+Brno;Czech Republic;Medium
+Ostrava;Czech Republic;Medium
+Plzeň;Czech Republic;Medium
+Salzburg;Austria;Medium
+Rotterdam;Netherlands;Medium
+Utrecht;Netherlands;Medium
+Eindhoven;Netherlands;Medium
+Liège;Belgium;Medium
+Antwerpen;Belgium;Medium
+Odense;Denmark;Medium
+Cork;Ireland;Medium
+Bergen;Norway;Medium
+Turku;Finland;Medium
+Lviv;Ukraine;Medium
+St.Petersburg;Russia;Medium
+Zürich;Switzerland;Medium
+Geneve;Switzerland;Medium
+
+Lyon;France;Hard
+Birmingham;United Kingdom;Hard
+Manchester;United Kingdom;Hard
+Marseille;France;Hard
+Hamburg;Germany;Hard
+München;Germany;Hard
+Köln;Germany;Hard
+Frankfurt am Main;Germany;Hard
+Barcelona;Spain;Hard
+Milan;Italy;Hard
+Florence;Italy;Hard
+Krakow;Poland;Hard
+Gothenburg;Sweden;Hard
+Porto;Portugal;Hard
+Ostrava;Czech Republic;Hard
+Graz;Austria;Hard
+The Hague;Netherlands;Hard
+Antwerp;Belgium;Hard
+Aarhus;Denmark;Hard
+Bordeaux;France;Hard
+Strasbourg;France;Hard
+Edinburgh;United Kingdom;Hard
+Glasgow;United Kingdom;Hard
+Cambridge;United Kingdom;Hard
+Liverpool;United Kingdom;Hard
+Düsseldorf;Germany;Hard
+Mannheim;Germany;Hard
+Dresden;Germany;Hard
+Bremen;Germany;Hard
+Leipzig;Germany;Hard
+Hannover;Germany;Hard
+Stuttgart;Germany;Hard
+Nürnberg;Germany;Hard
+Valencia;Spain;Hard
+Naples;Italy;Hard
+Gdansk;Poland;Hard
+Malmö;Sweden;Hard
+Brno;Czech Republic;Hard
+Plzeň;Czech Republic;Hard
+Salzburg;Austria;Hard
+Rotterdam;Netherlands;Hard
+Utrecht;Netherlands;Hard
+Eindhoven;Netherlands;Hard
+Liège;Belgium;Hard
+Antwerpen;Belgium;Hard
+Odense;Denmark;Hard
+Cork;Ireland;Hard
+Bergen;Norway;Hard
+Turku;Finland;Hard
+Lviv;Ukraine;Hard
+St.Petersburg;Russia;Hard
+Zürich;Switzerland;Hard
+Geneve;Switzerland;Hard
+Calais;France;Hard
+Nice;France;Hard
+Nantes;France;Hard
+Montpellier;France;Hard
+Toulouse;France;Hard
+Montpellier;France;Hard
+Cardiff;United Kingdom;Hard
+Sheffield;United Kingdom;Hard
+Southampton;United Kingdom;Hard
+Belfast;United Kingdom;Hard
+Newcastle;United Kingdom;Hard
+Bochum;Germany;Hard
+Lübeck;Germany;Hard
+Rostock;Germany;Hard
+Kiel;Germany;Hard
+Essen;Germany;Hard
+Bonn;Germany;Hard
+Chemnitz;Germany;Hard
+Dortmund;Germany;Hard
+Heidelberg;Germany;Hard
+Magdeburg;Germany;Hard
+Duisburg;Germany;Hard
+Aachen;Germany;Hard
+Gelschkirchen;Germany;Hard
+Schwerin;Germany;Hard
+Augsburg;Germany;Hard
+Koblenz;Germany;Hard
+Würzburg;Germany;Hard
+Tübingen;Germany;Hard
+Erfurt;Germany;Hard
+Trier;Germany;Hard
+Braunschweig;Germany;Hard
+Bielefeld;Germany;Hard
+Karlsruhe;Germany;Hard
+Darmstadt;Germany;Hard
+Mainz;Germany;Hard
+Wiesbaden;Germany;Hard
+Freiburg im Breisgau;Germany;Hard
+Wolfsburg;Germany;Hard
+Regensburg;Germany;Hard
+Sevilla;Spain;Hard
+Granada;Spain;Hard
+Murcia;Spain;Hard
+Bilbao;Spain;Hard
+Delft;Netherlands;Hard
+Groningen;Netherlands;Hard
+Maastricht;Netherlands;Hard
+Nijmegen;Netherlands;Hard
+Bologna;Italy;Hard
+Bari;Italy;Hard
+Verona;Italy;Hard
+Pisa;Italy;Hard
+Venice;Italy;Hard
+Torino;Italy;Hard
+Genoa;Italy;Hard
+Wroclaw;Poland;Hard
+Szczecin;Poland;Hard
+Poznań;Poland;Hard
+Uppsala;Sweden;Hard
+Umeå;Sweden;Hard
+Jönköping;Sweden;Hard
+Linköping;Sweden;Hard
+Lund;Sweden;Hard
+Coimbra;Portugal;Hard
+Plzeň;Czech Republic;Hard
+Olomouc;Czech Republic;Hard
+Villach;Austria;Hard
+Innsbruck;Austria;Hard
+Linz;Austria;Hard
+Gent;Belgium;Hard
+Aalborg;Denmark;Hard
+Galway;Ireland;Hard
+Trondheim;Norway;Hard
+Tromsø;Norway;Hard
+Tampere;Finland;Hard
+Oulu;Finland;Hard
+Odessa;Ukraine;Hard
+Cluj-Napoca;Romania;Hard
+Thessaloniki;Greece;Hard
+Debrecen;Hungary;Hard
+Luzern;Switzerland;Hard
+Košice;Slovakia;Hard
+Varna;Bulgaria;Hard
+Klaipeda;Lithuania;Hard
+Daugavpils;Latvia;Hard
+Tartu;Estonia;Hard
+Koper;Slovenia;Hard
+Split;Croatia;Hard
+Zenica;Bosnia and Herzegovina;Hard
+Niš;Serbia;Hard
+Tiraspol;Moldova;Hard
+Bitola;North Macedonia;Hard
+Durrës;Albania;Hard
+Gomel;Belarus;Hard
+Podgorica;Montenegro;Hard
+Pristina;Kosovo;Hard
+Dundee;United Kingdom;Hard
+Inverness;United Kingdom;Hard
+Plymouth;United Kingdom;Hard
+Leicester;United Kingdom;Hard
+Reims;France;Hard
+Nancy;France;Hard
+Amiens;France;Hard
+Toulon;France;Hard
+Catania;Italy;Hard
+Palermo;Italy;Hard
+Parma;Italy;Hard
+Cagliari;Italy;Hard
+Trento;Italy;Hard
+Trieste;Italy;Hard
+Brașov;Romania;Hard
+Kaunas;Lithuania;Hard
+Ruse;Bulgaria;Hard
+Banská Bystrica;Slovakia;Hard
+Maribor;Slovenia;Hard
+České Budějovice;Czech Republic;Hard
+Växjö;Sweden;Hard
+Esbjerg;Denmark;Hard
+Leeuwarden;Netherlands;Hard
+Leuven;Belgium;Hard
+Arnhem;Netherlands;Hard
+Leiden;Netherlands;Hard
+Zwolle;Netherlands;Hard
+Billund;Denmark;Hard
+Stavanger;Norway;Hard
+Rovaniemi;Finland;Hard
+Kaliningrad;Russia;Hard
+Łódź;Poland;Hard
+Dijon;France;Hard
+Alicante;Spain;Hard
+Istanbul;Turkey;Hard
+Liberec;Czech Republic;Hard
+Hradec Králové;Czech Republic;Hard
+Ústí nad Labem;Czech Republic;Hard
+Pardubice;Czech Republic;Hard
+Karlovy Vary;Czech Republic;Hard

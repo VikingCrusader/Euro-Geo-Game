@@ -1,0 +1,87 @@
+Germany;357022;Easy
+France;551695;Easy
+Spain;505990;Easy
+Italy;301340;Easy
+Poland;312696;Easy
+Sweden;450295;Easy
+Netherlands;41543;Easy
+Belgium;30528;Easy
+Denmark;42933;Easy
+Ireland;70273;Easy
+
+Germany;357022;Medium
+France;551695;Medium
+Spain;505990;Medium
+Italy;301340;Medium
+Poland;312696;Medium
+Sweden;450295;Medium
+Netherlands;41543;Medium
+Belgium;30528;Medium
+Denmark;42933;Medium
+Ireland;70273;Medium
+Norway;385207;Medium
+Finland;338145;Medium
+Ukraine;603550;Medium
+Romania;238397;Medium
+Greece;131957;Medium
+Portugal;92212;Medium
+Czech Republic;78865;Medium
+Hungary;93028;Medium
+Switzerland;41285;Medium
+Austria;83879;Medium
+Slovakia;49035;Medium
+Bulgaria;110879;Medium
+Lithuania;65300;Medium
+Latvia;64589;Medium
+Estonia;45228;Medium
+Slovenia;20273;Medium
+Croatia;56594;Medium
+Bosnia and Herzegovina;51197;Medium
+Serbia;77474;Medium
+Moldova;33846;Medium
+North Macedonia;25713;Medium
+Albania;28748;Medium
+Belarus;207600;Medium
+
+Germany;357022;Hard
+France;551695;Hard
+Spain;505990;Hard
+Italy;301340;Hard
+Poland;312696;Hard
+Sweden;450295;Hard
+Netherlands;41543;Hard
+Belgium;30528;Hard
+Denmark;42933;Hard
+Ireland;70273;Hard
+Norway;385207;Hard
+Finland;338145;Hard
+Ukraine;603550;Hard
+Romania;238397;Hard
+Greece;131957;Hard
+Portugal;92212;Hard
+Czech Republic;78865;Hard
+Hungary;93028;Hard
+Switzerland;41285;Hard
+Austria;83879;Hard
+Slovakia;49035;Hard
+Bulgaria;110879;Hard
+Lithuania;65300;Hard
+Latvia;64589;Hard
+Estonia;45228;Hard
+Slovenia;20273;Hard
+Croatia;56594;Hard
+Bosnia and Herzegovina;51197;Hard
+Serbia;77474;Hard
+Moldova;33846;Hard
+North Macedonia;25713;Hard
+Albania;28748;Hard
+Belarus;207600;Hard
+Montenegro;13812;Hard
+Luxembourg;2586;Hard
+Andorra;468;Hard
+San Marino;61;Hard
+Vatican City;0.44;Hard
+Liechtenstein;160;Hard
+Monaco;2;Hard
+Kosovo;10887;Hard
+

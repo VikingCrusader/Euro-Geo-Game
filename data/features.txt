@@ -1,0 +1,88 @@
+A country known for the Eiffel Tower, Baguette and Napoleon;France;Easy
+A country famous for Oktoberfest, Brandenburg gate and BMW;Germany;Easy
+A country with the Sagrada Familia church;Spain;Easy
+A country shaped like a boot;Italy;Easy
+A country between Germany and Belarus, famous for vodka and Chopin;Poland;Easy
+A country famous for IKEA and ABBA;Sweden;Easy
+The country of classical music, capital city has the Danube River flowing through;Austria;Easy
+Known for tulips, canals, windmills and bikers;Netherlands;Easy
+Known for waffles and chocolate;Belgium;Easy
+Known for fairytales, home of the Little Mermaid statue;Denmark;Easy
+The Emerald Isle, the national symbol is the shamrock;Ireland;Easy
+
+A country known for the Eiffel Tower, Baguette and Napoleon;France;Medium
+A country famous for Oktoberfest, Brandenburg gate and BMW;Germany;Medium
+A country with the Sagrada Familia church;Spain;Medium
+A country shaped like a boot;Italy;Medium
+A country between Germany and Belarus, famous for vodka and Chopin;Poland;Medium
+A country famous for IKEA and ABBA;Sweden;Medium
+The country of classical music, capital city has the Danube River flowing through;Austria;Medium
+Known for tulips, canals, windmills and bikers;Netherlands;Medium
+Known for waffles and chocolate;Belgium;Medium
+Known for fairytales, home of the Little Mermaid statue;Denmark;Medium
+The Emerald Isle, the national symbol is the shamrock;Ireland;Medium
+A northern country famous for fjords and northern light;Norway;Medium
+A northern country of thousands lakes, famous for Santa Claus;Finland;Medium
+The largest country entirely in Europe;Russia;Medium
+Known for Vampires and castles;Romania;Medium
+Birthplace of the Olympics and philosophy;Greece;Medium
+The southwestern most country in Europe;Portugal;Medium
+Known for beer and beautiful old town in its capital;Czech Republic;Easy
+Once formed a dual state with Austria, the parliament building is famous;Hungary;Medium
+Neutral country famous for watches and chocolate;Switzerland;Medium
+It was once a country together with Czech Republic;Slovakia;Medium
+Rila Monastery and the Black Sea coast;Bulgaria;Medium
+Once formed a commonwealth with Poland;Lithuania;Medium
+The middle Baltic state;Latvia;Medium
+The northernmost Baltic country, famous for its digitalization;Estonia;Medium
+Coastline along the Adriatic Sea;Croatia;Medium
+World War I broke out here, cities destroyed in 90s wars;Bosnia and Herzegovina;Medium
+It was where the capital of the former Yugoslav republic located;Serbia;Medium
+Known for Alexander the Great;North Macedonia;Medium
+Located north of Greece. Known for bunkers;Albania;Medium
+
+A country known for the Eiffel Tower, Baguette and Napoleon;France;Hard
+A country famous for Oktoberfest, Brandenburg gate and BMW;Germany;Hard
+A country with the Sagrada Familia church;Spain;Hard
+A country shaped like a boot;Italy;Hard
+A country between Germany and Belarus, famous for vodka and Chopin;Poland;Hard
+A country famous for IKEA and ABBA;Sweden;Hard
+The country of classical music, capital city has the Danube River flowing through;Austria;Hard
+Known for tulips, canals, windmills and bikers;Netherlands;Hard
+Known for waffles and chocolate;Belgium;Hard
+Known for fairytales, home of the Little Mermaid statue;Denmark;Hard
+The Emerald Isle, the national symbol is the shamrock;Ireland;Hard
+A northern country famous for fjords and northern light;Norway;Hard
+A northern country of thousands lakes, famous for Santa Claus;Finland;Hard
+The largest country entirely in Europe;Russia;Hard
+Former part of the Soviet Union, now at war with Russia;Ukraine;Hard
+Known for Vampires and castles;Romania;Hard
+Birthplace of the Olympics and philosophy;Greece;Hard
+The southwestern most country in Europe;Portugal;Hard
+Known for beer and beautiful old town in its capital;Czech Republic;Hard
+Once formed a dual state with Austria, the parliament building is famous;Hungary;Hard
+Neutral country famous for watches and chocolate;Switzerland;Hard
+It was once a country together with Czech Republic;Slovakia;Hard
+Rila Monastery and the Black Sea coast;Bulgaria;Hard
+Once formed a commonwealth with Poland;Lithuania;Hard
+The middle Baltic state;Latvia;Hard
+The northernmost Baltic country, famous for its digitalization;Estonia;Hard
+The 28th and the latest member state of the European Union.;Croatia;Hard
+World War I broke out here, cities destroyed in 90s wars;Bosnia and Herzegovina;Hard
+It was where the capital of the former Yugoslav republic located;Serbia;Hard
+Known for Alexander the Great;North Macedonia;Hard
+Located north of Greece. Known for bunkers;Albania;Hard
+Known for wine and old monasteries, close to Romania;Moldova;Hard
+Known for its huge Orthodox churches, led by an authoritarian president;Belarus;Hard
+Famous for caves and lakes, located between Italy, Austria and Croatia;Slovenia;Hard
+A very mountainous country in the balkans, get independence from Serbia in 2006;Montenegro;Hard
+Highest GDP per capita in the world, seat of the European Court of Justice;Luxembourg;Hard
+Tiny country between France and Spain;Andorra;Hard
+Smallest independent state in the world;Vatican City;Hard
+Tiny country in Alps, between Switzerland and Austria;Liechtenstein;Hard
+Close to France, Europe's famous casino city and pocket country;Monaco;Hard
+Newest country in Europe;Kosovo;Hard
+Famous for colonism and Industrial revolution;England;Hard
+Known for whisky and bagpipes, is a part of UK;Scotland;Hard
+
+

@@ -1,0 +1,92 @@
+Austria;Germany;Easy
+Belgium;France;Easy
+Czech Republic;Germany;Easy
+Denmark;Germany;Easy
+France;Spain;Easy
+Germany;France;Easy
+Ireland;United Kingdom;Easy
+Italy;France;Easy
+Netherlands;Germany;Easy
+Portugal;Spain;Easy
+Spain;France;Easy
+United Kingdom;Ireland;Easy
+
+Austria;Germany;Medium
+Belgium;France;Medium
+Czech Republic;Germany;Medium
+Denmark;Germany;Medium
+France;Spain;Medium
+Germany;France;Medium
+Ireland;United Kingdom;Medium
+Italy;France;Medium
+Netherlands;Germany;Medium
+Portugal;Spain;Medium
+Spain;France;Medium
+United Kingdom;Ireland;Medium
+Albania;Greece;Medium
+Belarus;Russia;Medium
+Bosnia and Herzegovina;Serbia;Medium
+Bulgaria;Romania;Medium
+Croatia;Hungary;Medium
+Estonia;Russia;Medium
+Finland;Russia;Medium
+Greece;Turkey;Medium
+Hungary;Ukraine;Medium
+Latvia;Russia;Medium
+Lithuania;Russia;Medium
+Moldova;Ukraine;Medium
+North Macedonia;Serbia;Medium
+Norway;Sweden;Medium
+Poland;Ukraine;Medium
+Romania;Ukraine;Medium
+Russia;Ukraine;Medium
+Serbia;Romania;Medium
+Slovakia;Ukraine;Medium
+Slovenia;Hungary;Medium
+Sweden;Norway;Medium
+Switzerland;France;Medium
+Ukraine;Russia;Medium
+
+Austria;Germany;Hard
+Belgium;France;Hard
+Czech Republic;Germany;Hard
+Denmark;Germany;Hard
+France;Spain;Hard
+Germany;France;Hard
+Ireland;United Kingdom;Hard
+Italy;France;Hard
+Netherlands;Germany;Hard
+Portugal;Spain;Hard
+Spain;France;Hard
+United Kingdom;Ireland;Hard
+Albania;Greece;Hard
+Belarus;Russia;Hard
+Bosnia and Herzegovina;Croatia;Hard
+Bulgaria;Romania;Hard
+Croatia;Hungary;Hard
+Estonia;Russia;Hard
+Finland;Russia;Hard
+Greece;Turkey;Hard
+Hungary;Ukraine;Hard
+Latvia;Russia;Hard
+Lithuania;Russia;Hard
+Moldova;Ukraine;Hard
+North Macedonia;Serbia;Hard
+Norway;Sweden;Hard
+Poland;Ukraine;Hard
+Romania;Ukraine;Hard
+Russia;Ukraine;Hard
+Serbia;Romania;Hard
+Slovakia;Ukraine;Hard
+Slovenia;Hungary;Hard
+Sweden;Norway;Hard
+Switzerland;France;Hard
+Ukraine;Russia;Hard
+Andorra;France;Hard
+Kosovo;Serbia;Hard
+Liechtenstein;Switzerland;Hard
+Luxembourg;France;Hard
+Monaco;France;Hard
+Montenegro;Serbia;Hard
+San Marino;Italy;Hard
+Vatican City;Italy;Hard
